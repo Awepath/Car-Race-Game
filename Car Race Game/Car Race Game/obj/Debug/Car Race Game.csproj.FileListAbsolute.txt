@@ -1,0 +1,10 @@
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car Race Game.csprojAssemblyReference.cache
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car_Race_Game.Form1.resources
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car_Race_Game.Properties.Resources.resources
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car Race Game.csproj.GenerateResource.cache
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car Race Game.csproj.CoreCompileInputs.cache
+c:\users\delet\source\repos\Car Race Game\Car Race Game\bin\Debug\Car Race Game.exe.config
+c:\users\delet\source\repos\Car Race Game\Car Race Game\bin\Debug\Car Race Game.exe
+c:\users\delet\source\repos\Car Race Game\Car Race Game\bin\Debug\Car Race Game.pdb
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car Race Game.exe
+c:\users\delet\source\repos\Car Race Game\Car Race Game\obj\Debug\Car Race Game.pdb
